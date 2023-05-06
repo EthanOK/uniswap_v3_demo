@@ -1,0 +1,7 @@
+{
+  "name": "forge-std",
+  "version": "1.5.5",
+  "scripts": {
+    "test": "forge test -vvvv"
+  }
+}
